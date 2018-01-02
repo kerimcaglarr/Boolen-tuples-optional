@@ -2,7 +2,7 @@ Selamlar , Bugünkü dersimizde , diğer derste eksik kalan değişkenlerini iş
 
 Greetings, In today's class, we have studied the remaining variables that the other derste are missing. This is the last variable position. We are slowly approaching the project. Good looking, good lessons.
 
-Utopian Video   : 
+Utopian Video   : https://www.youtube.com/watch?v=FzUPbDPI82A
 
 Utopian Profile : https://utopian.io/@kerimcaglar
 
