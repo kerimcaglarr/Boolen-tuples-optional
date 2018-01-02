@@ -1,0 +1,57 @@
+import UIKit
+
+var str = "Hello, playground" //Ýma yolu ile atama Xcode anlar tipi
+
+var str2:String = "test" //Açýktan atama Xcode a bildirilir tip
+
+//Boolean -> true veya false
+
+// if -else koþul ifadesi
+
+// Kpss test uyguylamasýnda daha fazla test için para ödenen uygulama
+
+var isPaid:Bool = false
+
+isPaid = true
+
+let a = 5
+
+if a == 5 {
+
+    
+
+    print("Ödemeniz baþarýyla alýndý, içeriði görebilirsiniz")
+
+    
+
+}
+
+    
+
+else{
+
+    
+
+    print("Ödeme yapýlmadýðýndan içeriði göremezsiniz")
+
+    
+
+}
+
+// Tuples birden fazla deðer ile kullanýlýr
+
+let test = (404,"Sayfa Bulunamadý") // Ýlk deðiþken integer ikincisi String veya hepsi integer veya hepsi string
+
+let(statusCode, status) = test
+
+print(statusCode)
+
+// Optionals
+
+var x:String? = "Swift"
+
+//Ýlk deðer olarak bizden kesin birþey istiyor.
+
+//Ýster boþ deðer verin, isterseniz dolu verin ama deðer verin
+
+print(x ?? "Geçersiz Deðer")
